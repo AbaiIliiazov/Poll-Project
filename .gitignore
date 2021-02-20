@@ -1,0 +1,6 @@
+*~
+__pycache__
+my_venv
+postgresql
+/static
+.DS_Store
